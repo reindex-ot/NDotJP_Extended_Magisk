@@ -1,0 +1,2 @@
+# NDotJP_Extended_Magisk
+NdotJPを他のNOS環境で使用するためのモジュール (NDotJPExtendedは同梱していません)
